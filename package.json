@@ -1,0 +1,21 @@
+{
+  "name": "generator-fast-forward",
+  "version": "1.0.0",
+  "description": "A small program to short-circuit ES6 generator steps; especially useful in testing ES6 generator output.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "ES6",
+    "generators",
+    "generators",
+    "redux-saga"
+  ],
+  "author": "Austin Benesh (austin@austinbenesh.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "sinon": "^7.5.0"
+  }
+}
