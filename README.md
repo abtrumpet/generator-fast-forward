@@ -1,5 +1,5 @@
 # generator-fast-forward
-A small utility to ease the stepping-through of ES6 generator code. I use it primarily for testing ES6 generators. Very simple to use. Here is the test file:
+A small utility to ease the stepping-through of ES6 generator code. I use it primarily for testing ES6 generators. Very simple to use, no external dependencies. Here is the test file:
 
 ```javascript
 function* generator() {
