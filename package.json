@@ -1,6 +1,6 @@
 {
   "name": "generator-fast-forward",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A small program to short-circuit ES6 generator steps; especially useful in testing ES6 generator output.",
   "main": "src/index.js",
   "scripts": {
