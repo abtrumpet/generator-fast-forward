@@ -16,7 +16,7 @@ const generatorFastForward = amount => (generator, input = [], throws = []) => {
 
     if (error)
       generator.throw(error);
-    else if (value)
+    else if (value !== undefined)
       generator.next(value).value;
     else
       generator.next().value;
